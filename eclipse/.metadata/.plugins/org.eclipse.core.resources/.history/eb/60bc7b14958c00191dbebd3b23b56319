@@ -1,0 +1,7 @@
+package me.theexistingone.ri.proxy;
+
+import me.theexistingone.ri.proxy.CommonProxy.java;
+
+public class ClientProxy extends java {
+
+}
