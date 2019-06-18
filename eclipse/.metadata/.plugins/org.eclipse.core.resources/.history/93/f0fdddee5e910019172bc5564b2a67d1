@@ -1,0 +1,12 @@
+package me.theexistingone.ri.object.item;
+
+import net.minecraft.item.Item;
+
+public class LoreItemBase extends Item {
+
+	public LoreItemBase(String unlocalizedName, CreativeTab tab, String[] lore) {
+		
+		
+	}
+
+}

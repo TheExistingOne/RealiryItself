@@ -2,4 +2,5 @@
 <qualifiedTypeNameHistroy>
 <fullyQualifiedTypeName name="net.minecraftforge.fml.common.SidedProxy"/>
 <fullyQualifiedTypeName name="me.theexistingone.ri.proxy.CommonProxy"/>
+<fullyQualifiedTypeName name="net.minecraftforge.fml.common.Mod.Instance"/>
 </qualifiedTypeNameHistroy>
