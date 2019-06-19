@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "ri:blocks/ore_pure_crystal"
+    }
+}

@@ -1,7 +1,0 @@
-package me.theexistingone.ri.init;
-
-public class BlockInit {
-
-	public static final List<Block> BLOCKS = new ArrayList<Block>();
-	
-}

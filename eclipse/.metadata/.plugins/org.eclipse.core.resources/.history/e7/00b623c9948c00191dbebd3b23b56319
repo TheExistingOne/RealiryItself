@@ -1,9 +1,0 @@
-package me.theexistingone.ri;
-
-public class Reference {
-	
-	public static final String MODID = "ri";
-	public static final String NAME = "Reality Itself";
-	public static final String VERSION = "beta 0.0.1";
-	
-}

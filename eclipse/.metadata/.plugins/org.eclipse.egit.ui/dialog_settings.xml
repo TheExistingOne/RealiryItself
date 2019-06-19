@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<item key="org.eclipse.egit.ui.internal.clone.GitSelectWizardPageWizardSel" value="0"/>
-	<item key="GitSelectRepositoryPage.lastRepository" value="/home/the-programinator/RealityItself/.git"/>
+	<item key="GitSelectRepositoryPage.lastRepository" value="/home/the-programinator/Dev/RealityItself/.git"/>
 	<list key="CommitDialog.authorValues">
 		<item value="TheExistingOne &lt;arealhumanthatexists@gmail.com&gt;"/>
 	</list>

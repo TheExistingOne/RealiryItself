@@ -1,4 +1,4 @@
-GitRepositoriesView.GitDirectories=/home/the-programinator/RealityItself/.git\:
-GitRepositoriesView.GitDirectories.relative=/home/the-programinator/RealityItself/.git\:
-RepositorySearchDialogSearchPath=/home/the-programinator/RealityItself
+GitRepositoriesView.GitDirectories=/home/the-programinator/RealityItself/.git\:/home/the-programinator/Dev/RealityItself/.git\:
+GitRepositoriesView.GitDirectories.relative=/home/the-programinator/RealityItself/.git\:/home/the-programinator/Dev/RealityItself/.git\:
+RepositorySearchDialogSearchPath=/home/the-programinator/Dev/RealityItself
 eclipse.preferences.version=1
